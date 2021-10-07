@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/windowsx65/SSH-activator/main/images/logo.png" align="middle"></img></p>
+<p align="center"><img src="https://github.com/windowsx65/SSH-activator/blob/main/Resources/logo.png" align="middle"></img></p>
 
 
 # SSH Activator
